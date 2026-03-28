@@ -3,7 +3,7 @@
 	"name": "Kindle Transformation",
 	"version": "1.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Elegantly transform Kindle exported HTML notes into formatted markdown. Inspired by and upgraded from https://github.com/l2xu/kindle_html_importer.",
+	"description": "Elegantly transform Kindle exported HTML notes into beautifully formatted markdown files.",
 	"author": "Tj",
 	"authorUrl": "",
 	"isDesktopOnly": false
